@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/Main.unity
+    guid: f88561e152f226e4c8967eb700564077
+  - enabled: 1
+    path: Assets/01.Scenes/2D/Flatformer/2D Platformer Main.unity
+    guid: a7398d036e65bd746af5cfeb83ee3ee6
+  - enabled: 1
+    path: Assets/01.Scenes/2D/Flatformer/2D Platformer Easy.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/01.Scenes/2D/Flatformer/2D Platformer Advanced.unity
+    guid: 8652f50c6a32ab543b8d8b7a1f7d0f54
+  - enabled: 1
+    path: Assets/01.Scenes/2D/Flatformer/2D Platformer Random.unity
+    guid: 714f8eb1228b70847865a81d838be4ed
+  - enabled: 1
+    path: Assets/01.Scenes/3D/3D Maze Map1.unity
+    guid: 064a060bba96e344eb919bddedf01887
+  - enabled: 1
+    path: Assets/01.Scenes/3D/3D.unity
+    guid: f7ae81c9c2474d34c8fa747770d0d117
+  - enabled: 1
+    path: Assets/01.Scenes/3D/3D RunGame.unity
+    guid: 255dff44b2f64c44a875f07755d1a920
+  m_configObjects: {}

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fly
+  - Stair
+  - Climb
+  - Animal
+  - Ground
+  - Water
+  - DeadZone
+  - Sign
+  - InterText
+  - RespawnZone
+  - Score
+  - Grape
+  - Shine
+  - Portal
+  - JumpSound
+  - Rock
+  - Coin
+  - SavePlayer
+  - SlotMachine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Minimap
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Animal
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - POLARIS RAYCAST
+  - POLARIS SPLINE
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2645415301
+    locked: 0
+  - name: Backobject
+    uniqueID: 3497606383
+    locked: 0
+  - name: object
+    uniqueID: 3362827605
+    locked: 0
+  - name: Player
+    uniqueID: 3123572893
+    locked: 0
